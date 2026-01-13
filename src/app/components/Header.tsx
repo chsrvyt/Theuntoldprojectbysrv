@@ -22,7 +22,7 @@ export function Header({ onAddClick, searchQuery, setSearchQuery }: HeaderProps)
           <div className="w-8 h-8 bg-black dark:bg-white rounded-lg flex items-center justify-center shrink-0">
             <div className="w-3 h-3 bg-white dark:bg-black rotate-45" />
           </div>
-          <span className="text-[16px] md:text-[18px] font-medium tracking-tight dark:text-white hidden sm:block">The Unsent Archive</span>
+          <span className="text-[16px] md:text-[18px] font-medium tracking-tight dark:text-white hidden sm:block">The Unsent Project</span>
         </div>
 
         <div className="flex-1 max-w-xl relative group min-w-0">
